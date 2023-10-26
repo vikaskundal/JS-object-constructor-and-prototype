@@ -11,6 +11,7 @@ function player(name,mark){
 // he want to test one method in player and want to see how child object(player1) behaves
 // there without changing anything on parent object player he will make prototype of
 // parent object 
+// in this case player.prototype is the parent prototype 
 
 player.prototype.bestfriend =function() {
     console.log(`${this.name} best friend is raghav`);
