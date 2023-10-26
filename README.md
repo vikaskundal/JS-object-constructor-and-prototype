@@ -3,7 +3,7 @@
 I was preparing for one of my Library project and then I got to know about the objects prototype.
 
 
-So because dive deep into prototype, We have to know about the object construtor. 
+So lets learn something about  prototype, We have to know about the object construtor. 
 then study about the use of constructor and how it  impacts and make our code more clear
 
 Objects constructor is same as class constructor.
